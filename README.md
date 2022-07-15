@@ -30,6 +30,6 @@ Suja Manoj
 
 ## Questions
 
-If you're stuck or having problems with the application email me with any questions: joelabankwah15@gmail.com<br /><br />
+If you're stuck or having problems with the application email me with any questions: suja@masstv.app<br /><br />
 GitHub: [SujaManoj](https://github.com/sujamanoj)<br />
 <br />
