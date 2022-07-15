@@ -24,7 +24,7 @@ Link to the <a href='https://www.google.com/search?q=Open+license'>Open license<
 
 ## Contributing
 
-Joel Abankwah
+Suja Manoj
 
 ## Deployment
 
