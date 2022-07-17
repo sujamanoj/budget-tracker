@@ -1,4 +1,4 @@
-<h1 align="center">Budget Tracker </h1>
+<h1 align ="center">Budget Tracker </h1>
   
 ![badge](https://img.shields.io/badge/license-Open-brightgreen)<br />
 
